@@ -1,2 +1,3 @@
-# myTestRepo
-Another test playground
+# Intro to Github
+
+Github playground is a sandbox.
